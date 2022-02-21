@@ -1,5 +1,5 @@
 ## Olá eu sou a Gabriel Oliveira, estudante de programação e tecnologia!
-<div align="center">
+<div align="center" style="display: inline-block">
   <a href="beacons.ai/gaabrieloliver">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gaabrieloliver&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrieloliver&layout=compact&langs_count=7&theme=dark"/>
