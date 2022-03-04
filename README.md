@@ -1,4 +1,6 @@
-## 👋 Olá, eu sou Gabriel Oliveira, estudante de programação e tecnologia!
+<img align="right" width="440" height="700" right="0px" src="https://imgur.com/HFBMCLt.png">
+
+     ## 👋 Olá, eu sou Gabriel Oliveira, estudante de programação e tecnologia!
 
 <div> 
   <a href="https://instagram.com/gaabrieloliver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
