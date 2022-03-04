@@ -1,26 +1,34 @@
 <img align="right" width="440" height="700" right="0px" src="https://imgur.com/HFBMCLt.png">
 
-     ## 👋 Olá, eu sou Gabriel Oliveira, estudante de programação e tecnologia!
 
-<div> 
-  <a href="https://instagram.com/gaabrieloliver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.linkedin.com/in/gabriel-oliveira-165613226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatogabrieloliveira0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<div align="center">
-  <a href="beacons.ai/gaabrieloliver"></a>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaabrieloliver&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrieloliver&layout=compact&langs_count=7&theme=dark"/>
-</div>
+# Gabriel Oliveira
+### Estudante de Desenvolvimento de Software 💻
 
-## 🌱Tecnologias que ando estudando
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  
-</div><br/>
+
+<br>
+
+### Sobre Mim:
+
+<p align="left" margin-left="10px"> 
+
+- 🌱 Explorando novas tecnologias, técnicas e soluções.
+- 📚 No momento estou estudando: <strong>Java, JavaScript, HTML, CSS.</strong>
+- 📘 Desenvolvendo Projetos para praticar conhecimentos aprendidos.
+- 🎓 Cursando Desenvolvimento de Software - ADM&TEC.
+
+<br/>
+
+### Contato
+
+<p align="left" margin-left="10px">
+  <a href="nycolassantana00@gmail.com">
+    <img src="https://img.shields.io/badge/gabrieloliveira0@gmail.com-6633cc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:contatogabrieloliveira0@gmail.com" style="max-width:100%;">
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-oliveira-165613226/" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Gabriel%20Oliveira-6633cc?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rafaeldcmartins" style="max-width:100%;">
+  </a>
+</p>
 
 <div> 
 
