@@ -23,7 +23,7 @@
 ### Contato
 
 <p align="left" margin-left="10px">
-  <a href="nycolassantana00@gmail.com">
+  <a href="contatogabrieloliveira0@gmail.com">
     <img src="https://img.shields.io/badge/contatogabrieloliveira0@gmail.com-6633cc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:contatogabrieloliveira0@gmail.com" style="max-width:100%;">
   </a>
   <a href="https://www.linkedin.com/in/gabriel-oliveira-165613226/" rel="nofollow">
@@ -32,9 +32,7 @@
 </p>
 
 <div> 
-
-
-
+   ![Snake animation](https://github.com/gaabrieloliver/gaabrieloliver/blob/output/github-contribution-grid-snake.svg)
 </div>
  
 
