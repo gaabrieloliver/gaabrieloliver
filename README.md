@@ -1,4 +1,4 @@
-<img align="right" width="440" height="700" right="0px" src="https://imgur.com/HFBMCLt.png">
+<img align="right" width="340" height="500" right="0px" src="https://imgur.com/HFBMCLt.png">
 
 
 
@@ -16,14 +16,15 @@
 - 📚 No momento estou estudando: <strong>Java, JavaScript, HTML, CSS.</strong>
 - 📘 Desenvolvendo Projetos para praticar conhecimentos aprendidos.
 - 🎓 Cursando Desenvolvimento de Software - ADM&TEC.
-
+                                                              
 <br/>
+  
 
 ### Contato
 
 <p align="left" margin-left="10px">
   <a href="nycolassantana00@gmail.com">
-    <img src="https://img.shields.io/badge/gabrieloliveira0@gmail.com-6633cc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:contatogabrieloliveira0@gmail.com" style="max-width:100%;">
+    <img src="https://img.shields.io/badge/contatogabrieloliveira0@gmail.com-6633cc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:contatogabrieloliveira0@gmail.com" style="max-width:100%;">
   </a>
   <a href="https://www.linkedin.com/in/gabriel-oliveira-165613226/" rel="nofollow">
     <img src="https://img.shields.io/badge/-Gabriel%20Oliveira-6633cc?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rafaeldcmartins" style="max-width:100%;">
