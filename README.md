@@ -15,7 +15,7 @@
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
 - 📚 No momento estou estudando: <strong>Java, JavaScript, HTML, CSS.</strong>
 - 📘 Desenvolvendo Projetos para praticar conhecimentos aprendidos.
-- 🎓 Cursando Desenvolvimento de Software - ADM&TEC.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNINABUCO.
                                                               
 <br/>
   
