@@ -3,7 +3,7 @@
 
 
 # Gabriel Oliveira
-### Estudante de Desenvolvimento de Software 💻
+### Estudante de ADS na UNINABUCO 💻
 
 
 <br>
