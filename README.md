@@ -13,7 +13,7 @@
 <p align="left" margin-left="10px"> 
 
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
-- 📚 No momento estou estudando: <strong>Java, JavaScript, HTML, CSS.</strong>
+- 📚 No momento estou estudando: <strong>Java, PHP, JavaScript, HTML, CSS.</strong>
 - 📘 Desenvolvendo Projetos para praticar conhecimentos aprendidos.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNINABUCO.
                                                               
