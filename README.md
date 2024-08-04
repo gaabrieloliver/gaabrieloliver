@@ -15,7 +15,7 @@
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
 - 📚 No momento estou estudando: <strong> HTML, CSS, JavaScript.</strong>
 - 📘 Desenvolvendo Projetos para praticar conhecimentos aprendidos.
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNINABUCO.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNINASSAU.
                                                               
 <br/>
   
