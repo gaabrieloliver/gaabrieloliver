@@ -1,6 +1,3 @@
-<img align="right" width="420" height="500" right="0px" src="https://i.imgur.com/Ug7WQd9.gif">
-
-
 
 # Gabriel Oliveira
 ### Estudante de ADS na UNINABUCO 💻
